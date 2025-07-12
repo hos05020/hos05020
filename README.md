@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**hos05020/hos05020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 학력
+
+* 숭실대학교 소프트웨어학부 (2017.03 ~ 2024.02) , GPA: 3.83 / 4.5
+
+* * *
+
+🧾 자격증
+
+* 정보처리기사 (한국산업인력공단)
+
+* SQL 개발자(SQLD) (한국데이터산업진흥원)
+
+* * *
+
+💼 경력 사항
+
+1. KT DS / 금융AX사업본부 금융사업담당 금융개발팀 (2024.01 ~ 2025.06)
+
+    * [SC제일은행 IT Outsourcing] 경영정보시스템(MIS) ASP/JavaScript 기반 유지보수 및 신규 기능 개발
+
+    * [미래에셋증권 차세대 퇴직연금 시스템 구축] Java, Spring 기반 사무담당자용 업무 화면 개발
+
+
+
+2. 메리츠화재해상보험(주) / IT팀 IT개발파트 (2025.07 ~ )
+
+* * *
+
+📫 연락
+
+Email: [hos05020@gmail.com]
+
+GitHub: https://github.com/hos05020
